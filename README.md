@@ -8,6 +8,8 @@
 
 ❗️indicates action items; you should remove these emoji as you complete/update the items which they accompany. (This means that your final README should have no ❗️in it!)
 
+---
+
 ❗**References**: 
 Throughout this project, you have likely used outside resources. Reference all ideas which are not your own, and describe how you integrated the ideas or code into your program. This includes online sources, people who have helped you, and any other resources that are not solely your own contribution. Update as you go!
 
@@ -21,6 +23,8 @@ Throughout this project, you have likely used outside resources. Reference all i
 ❗**Purpose**: In a single sentence, describe what your project will do.
 
 ❗️**Sources**: Which assignments or code will you base your project on?
+
+❗️**Kanban Board**: What is the link to the Kanban board on Trello?
 
 ❗️**CRC Card**:
   - Please write a CRC card for a class that your project will implement.
