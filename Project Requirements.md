@@ -19,6 +19,22 @@ assignments together to create something new and interesting!
 
 ---
 
+## Kanban Board
+- Make a Kanboard board on Trello to track the progress of your project.
+- As an example, you can refer to the board to track the homework for this class.
+- Your board needs to have at least the following three columns:
+    - Not Started / Backlog
+    - In Progress
+    - Completed
+- Feel free to add additional columns that you find helpful.
+- Post at least a dozen project-related tasks to the board.
+- Sort the tasks into the columns.
+- Prioritize the tasks within each column.
+- Update the board continuously throughout the project.
+- Post a link to the board in the README.md document.
+
+https://trello.com/b/qe8idlO8/2020-fall-csc-226
+
 ## 📌Milestone 1: Setup, Planning, Design
 *Due Fri Sep 18, 2020*
 
@@ -49,7 +65,7 @@ assignments together to create something new and interesting!
 
 ---
 
-## Milestone 3: Virtual Check-in
+## 📌Milestone 3: Virtual Check-in
 *Due Mon Sep 28, 2020*
 
 Add a note to this section of the README.md that indicates what percentage of the project you have left to complete. 
