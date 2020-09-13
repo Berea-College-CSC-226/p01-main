@@ -1,30 +1,27 @@
-# ❗P01: My 226 Final Project
+# ❗Project P01: CSC226 Project
 
-**Term**: Fall 2019
+**Term**: Fall 2020
 
 ❗️**Author(s)**: Your name(s) here
 
 ❗️**Section**: A or B
 
 ❗**References**: 
-Throughout this project, you've likely used outside resources.
-Reference all ideas which are not your own, and describe and
-how you integrated the ideas or code into your program. This includes
-online sources, people who have helped you, and any other resources that
-are not solely your own contribution. Update as you go!
+Throughout this project, you have likely used outside resources. Reference all ideas which are not your own, and describe how you integrated the ideas or code into your program. This includes online sources, people who have helped you, and any other resources that are not solely your own contribution. Update as you go!
 
 ---
 
 ## Milestone 1: Setup, Planning, Design
-*Due Friday, 11/15, by the **start of class**.*
+*Due Fri Sep 18, 2020*
 
-❗️**Project Title**: What will your final product be called? 
+❗️**Title**: What is the title of your project?
 
-❗**Purpose**: In a single sentence, describe what your program will do.
+❗**Purpose**: In a single sentence, describe what your project will do.
 
-❗️**Sources**: What assignments/code will your final project be based on?
+❗️**Sources**: Which assignments or code will you base your project on?
 
-❗️**Completed CRC card for the class you will implement**:
+❗️**CRC Card**:
+  - Please write a CRC card for a class that your project will implement.
   - See this link for a sample CRC card and a template to
   use for your own cards (you will have to make a copy to edit): https://docs.google.com/document/d/1JE_3Qmytk_JGztRqkPXWACJwciPH61VCx3idIlBCVFY/edit?usp=sharing
   - Tables in markdown are not easy, so we suggest saving your CRC card
@@ -36,16 +33,14 @@ are not solely your own contribution. Update as you go!
 ---
 
 ## Milestone 2: Code
-*Due Friday, 11/22, by the start of class.*
+*Due Tue Sep 22, 2020*
 
 No README action items. Focus on your code! 🙃
 
 ---
 
 ## Milestone 3: Virtual Check-in
-*Due Friday, 11/29, by 11:55PM*
-
-**NOTE: This is due the Friday after Thanksgiving, when you're on break. Don't forget about it! You can do it before you leave on Wednesday!**
+*Due Mon Sep 28, 2020*
 
 Add a note to this section that indicates what percentage of the project you have left to complete. 
 
@@ -54,21 +49,17 @@ Add a note to this section that indicates what percentage of the project you hav
 ---
 
 ## Milestone 4: Final Code, Presentation, Demo
-*Due at the start of your section's Final Exam period.*
+*Due on Fri Oct 2, 2020*
 
 ### ❗User Instructions
 In a paragraph, explain how to use your program. 
 Assume the user is starting just after they hit the "Run" button. 
 
 ### ❗Errors and Constraints
-Every program has bugs or features that had to be scrapped for time. 
-Use this section to create a bullet list of all known errors and 
-deficiencies that remain in your code. 
-Bugs you acknowledge here won't be penalized. 
-Bugs found that aren't acknowledged here will be penalized!
+Every program has bugs or features that had to be scrapped for time. Use this section to create a bullet list of all known errors and deficiencies that remain in your code. Bugs found that aren't acknowledged here will be penalized.
 
 ### ❗Reflection
-In 3 - 4 well-written paragraphs, address the following (at a minimum):
+In three to four well-written paragraphs, address the following (at a minimum):
 - Why did you select the project that you did?
 - How closely did your final project reflect your initial design?
 - What did you learn from this process?
