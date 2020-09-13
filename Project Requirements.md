@@ -1,19 +1,15 @@
 # Project Requirements
 **_Do not modify this file; it is for your reference only._** 
-You should make your edits to README.md while working on your project. 
-
-❗️indicates action items; you should remove these emoji as you 
-complete/update the items which they accompany. 
-(This means that your final README should have no ❗️in it!)
+You should make your edits to README.md while working on your project.
 
 ---
 
 ## ⚡️Project Overview
 
-For your final project, you will be revisiting an earlier piece of code and refactoring it. (In other words, rewriting it to make it better.) In doing so, you must:
-1. Implement **at least** one class which is appropriate to your proposed project.
-2. Add event handling (mouse or keyboard interaction), either through the
-turtle library or using Tkinter.
+1. Choose a homework asssignment, teamwork assignment, or example code.
+2. Reimplement the code in object-oriented style.
+3. Implement mouse or keyboard interaction via event handling.
+4. Add additional features to the project.
 
 You can choose from any previous assignment or code from this class, 
 including code we gave you as examples (e.g., palindromes), 
@@ -24,7 +20,7 @@ assignments together to create something new and interesting!
 ---
 
 ## 📌Milestone 1: Setup, Planning, Design
-*Due Friday, 11/15, by the **start of class**.*
+*Due Fri Sep 18, 2020*
 
 1. Create your project repository (this one!) 
 2. Update the README.md header with your information (name, etc.)
@@ -41,7 +37,7 @@ assignments together to create something new and interesting!
 ---
 
 ## 📌Milestone 2: Code
-*Due Friday, 11/22, by the **start of class**.*
+*Due Tue Sep 22, 2020*
 
 1. Create and add the new file(s) to your repository for your final project code.
 2. Copy and paste any code that you plan to reuse from your reference files into the new file(s). Again, **DO NOT modify your original reference files!**
@@ -54,16 +50,14 @@ assignments together to create something new and interesting!
 ---
 
 ## Milestone 3: Virtual Check-in
-*Due Friday, 11/29, by 11:55PM*
-
-**NOTE: This is due the Friday after Thanksgiving, when you're on break. Don't forget about it! You can do it before you leave on Wednesday!**
+*Due Mon Sep 28, 2020*
 
 1. Add a note to this section of the README.md that indicates what percentage of the project you have left to complete. 
 
 ---
 
 ## 📌Milestone 4: Final Code, Presentation, Demo
-*Due at the start of your section's Final Exam period.*
+*Due on Fri Oct 2, 2020*
 
 1. Final version of your code:
     - Clean up code. Make sure it follows our coding standards.
