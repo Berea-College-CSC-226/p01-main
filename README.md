@@ -6,6 +6,8 @@
 
 ❗️**Section**: A or B
 
+❗️indicates action items; you should remove these emoji as you complete/update the items which they accompany. (This means that your final README should have no ❗️in it!)
+
 ❗**References**: 
 Throughout this project, you have likely used outside resources. Reference all ideas which are not your own, and describe how you integrated the ideas or code into your program. This includes online sources, people who have helped you, and any other resources that are not solely your own contribution. Update as you go!
 
