@@ -1,4 +1,4 @@
-# ❗Project P01: CSC226 Project
+# ❗CSC226 Project
 
 **Term**: Fall 2020
 
