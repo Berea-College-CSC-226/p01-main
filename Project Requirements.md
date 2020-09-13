@@ -20,7 +20,7 @@ assignments together to create something new and interesting!
 ---
 
 ## Kanban Board
-- Make a Kanboard board on Trello to track the progress of your project.
+- Make a Kanban board board on Trello to track the progress of your project.
 - As an example, you can refer to the board to track the homework for this class.
 - Your board needs to have at least the following three columns:
     - Not Started / Backlog
