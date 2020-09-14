@@ -56,19 +56,22 @@ https://trello.com/b/qe8idlO8/2020-fall-csc-226
 *Due Tue Sep 22, 2020*
 
 1. Create and add the new file(s) to your repository for your final project code.
-2. Copy and paste any code that you plan to reuse from your reference files into the new file(s). Again, **DO NOT modify your original reference files!**
-3. Complete a rough draft of your code! Hints:
-    - Refactor your code to use a class(es).
-    - Create stubs for methods that aren't written yet, but you know you'll need.
+2. Complete a rough draft of your code! Hints:
+    - Begin by creating the outline of the class(es) you need for your project.
+    - Initialize any class variables and attributes. Give them initial values, or **None**.
+    - Create stubs for methods that aren't written yet, but you know you'll need. This is also a good time to move code from your reference files, or refer to them as you refactor.
     - After that code is fully functional, add event handling.
-4. **Commit and push** your work often!
+3. **Commit and push** your work often!
+4. Update your Kanban board with your progress regularly! 
 
 ---
 
 ## 📌Milestone 3: Virtual Check-in
 *Due Mon Sep 28, 2020*
 
-Add a note to this section of the README.md that indicates what percentage of the project you have left to complete. 
+1. Add a note to the Milestone 3 section of the README.md that indicates what percentage of the project you have left to complete, and how confident you feel about completing the work. Elaborate!
+2. Add a new column to your Kanban board between **Not Started** and **In Progress**. Call this column **Final Sprint**. Move all cards into the **Final Sprint** column that you expect to finish by the end of class, and leave anything that is extra in the **Not Started** column. 
+3. In the **Final Sprint** cards, put Due dates on each card for when you think they need to be done to complete the project. 
 
 ---
 
@@ -77,8 +80,8 @@ Add a note to this section of the README.md that indicates what percentage of th
 
 1. Final version of your code:
     - Clean up code. Ensure it follows our coding standards.
-    - Remove non-working code.
-    - Comment out any print statements or other debugging code.
+    - Remove any non-working code.
+    - Comment out any print statements or other scaffolding.
     - Clean up docstrings and comments.  
 2. Final, fully completed version of your README.md
     - All sample text/instructions below headings replaced with your own writing.
