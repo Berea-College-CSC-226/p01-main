@@ -16,7 +16,6 @@ Throughout this project, you have likely used outside resources. Reference all i
 ---
 
 ## Milestone 1: Setup, Planning, Design
-*Due Fri Sep 18, 2020*
 
 ❗️**Title**: What is the title of your project?
 
@@ -39,14 +38,12 @@ Throughout this project, you have likely used outside resources. Reference all i
 ---
 
 ## Milestone 2: Code
-*Due Tue Sep 22, 2020*
 
 No README action items. Keep your Kanban board up to date, and focus on your code! 🙃
 
 ---
 
 ## Milestone 3: Virtual Check-in
-*Due Mon Sep 28, 2020*
 
 Indicates what percentage of the project you have left to complete, and how confident you are feeling. 
 
@@ -57,7 +54,6 @@ Indicates what percentage of the project you have left to complete, and how conf
 ---
 
 ## Milestone 4: Final Code, Presentation, Demo
-*Due on Fri Oct 2, 2020*
 
 ### ❗User Instructions
 In a paragraph, explain how to use your program. Assume the user is starting just after they hit the "Run" button. 
