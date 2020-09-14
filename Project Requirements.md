@@ -8,7 +8,7 @@ You should make your edits to README.md while working on your project.
 
 1. Choose a homework asssignment, teamwork assignment, or example code.
 2. Reimplement the code in object-oriented style.
-3. Implement mouse or keyboard interaction via event handling.
+3. Implement mouse or keyboard interaction via event handling. All interaction must be through the program, not the Python console.
 4. Add additional features to the project.
 
 You can choose from any previous assignment or code from this class, 
@@ -21,19 +21,20 @@ assignments together to create something new and interesting!
 
 ## Kanban Board
 - Make a Kanban board board on Trello to track the progress of your project.
-- As an example, you can refer to the board to track the homework for this class.
 - Your board needs to have at least the following three columns:
-    - Not Started / Backlog
-    - In Progress
-    - Completed
+    - **Not Started / Backlog:** All tasks related to the project that you plan to complete
+    - **In Progress:** The ONE or TWO task(s) you are currently working on (move the card from Not Started to In Progress when you begin that task).
+    - **Completed**: Tasks that you believe are implemented and work correctly.
+- As an example, you can refer to the Kanban board used by the Student Software Development Team, which is slightly more complex, but contains the three columns listed above: https://trello.com/b/eRuoLEBR/ssdt-kanban-board
 - Feel free to add additional columns that you find helpful.
 - Post at least a dozen project-related tasks to the board.
 - Sort the tasks into the columns.
 - Prioritize the tasks within each column.
-- Update the board continuously throughout the project.
+- Update the board continuously throughout the project: 
+    - Every time you start working, look at your Kanban board to figure out which task to begin. 
+    - Every time you stop working, update your Kanban board with any progress you made. 
+    - Do NOT wait until you are submitting milestones to update the board. 
 - Post a link to the board in the README.md document.
-
-https://trello.com/b/qe8idlO8/2020-fall-csc-226
 
 ## 📌Milestone 1: Setup, Planning, Design
 *Due Fri Sep 18, 2020*
@@ -49,6 +50,8 @@ https://trello.com/b/qe8idlO8/2020-fall-csc-226
     - See my example for how to do this.
     - Verify on the GitHub website that your README.md is formatted appropriately to show your image.
 6. **Commit and push** your work!
+7. Update your Kanban board with your progress continuously! 
+
 
 ---
 
@@ -62,7 +65,7 @@ https://trello.com/b/qe8idlO8/2020-fall-csc-226
     - Create stubs for methods that aren't written yet, but you know you'll need. This is also a good time to move code from your reference files, or refer to them as you refactor.
     - After that code is fully functional, add event handling.
 3. **Commit and push** your work often!
-4. Update your Kanban board with your progress regularly! 
+4. Update your Kanban board with your progress continuously! 
 
 ---
 
@@ -70,8 +73,8 @@ https://trello.com/b/qe8idlO8/2020-fall-csc-226
 *Due Mon Sep 28, 2020*
 
 1. Add a note to the Milestone 3 section of the README.md that indicates what percentage of the project you have left to complete, and how confident you feel about completing the work. Elaborate!
-2. Add a new column to your Kanban board between **Not Started** and **In Progress**. Call this column **Final Sprint**. Move all cards into the **Final Sprint** column that you expect to finish by the end of class, and leave anything that is extra in the **Not Started** column. 
-3. In the **Final Sprint** cards, put Due dates on each card for when you think they need to be done to complete the project. 
+2. Now is the time to reconsider goals. Add a new column to your Kanban board between **Not Started** and **In Progress**. Call this column **Final Sprint**. Move cards from the **Not Started** column into the **Final Sprint** column that you expect to finish by the end of the project, and leave anything that is extra in the **Not Started** column. 
+3. In the **Final Sprint** cards, put due dates on each card for when you think they need to be done to complete the project. 
 
 ---
 
@@ -80,9 +83,9 @@ https://trello.com/b/qe8idlO8/2020-fall-csc-226
 
 1. Final version of your code:
     - Clean up code. Ensure it follows our coding standards.
-    - Remove any non-working code.
-    - Comment out any print statements or other scaffolding.
-    - Clean up docstrings and comments.  
+    - Remove any non-working code. Your program MUST execute without syntax or runtime errors.
+    - Comment out any print statements or other scaffolding code. All interaction must be through the program, not the Python console.
+    - Clean up docstrings and comments.
 2. Final, fully completed version of your README.md
     - All sample text/instructions below headings replaced with your own writing.
     - Proofread, nicely formatted, and cleaned up.
@@ -92,16 +95,30 @@ https://trello.com/b/qe8idlO8/2020-fall-csc-226
     - Your slides must be uploaded to your repository as images or a PDF file (not PowerPoint).
     - Your presentation should be similar to a sales pitch about why your project is awesome.
     - No slides with large blocks of code.
-4. In-class live demo to your classmates
+4. In-class live lightning demo to your classmates
+    - You will demonstrate your project. Have your project ready to **run** at the beginning of class. No scrolling through code, and not a Powerpoint! 
+    - You will have 3 minutes to demo. No more, no less!
+    - You will demo three times.
+    - There will be a short amount of time for question and answer.
 5. **Commit and push** your work before your section's exam period!
 
 ---
 ## Grading
-- Milestone 1: 15 points
-- Milestone 2: 10 points
-- Milestone 3: 5 points
+- Milestone 1:
+  - README: 10 points
+  - Kanban: 5 points
+  - 2+ total meaningful commits in Github: 2 points
+- Milestone 2: 
+  - README: 5 points
+  - Kanban: 5 points
+  - 5+ total meaningful commits in Github: 2 points
+- Milestone 3: 
+  - README: 5 points
+  - Kanban: 10 points
+  - 10+ total meaningful commits in Github: 2 points
 - Milestone 4:
-  - Code: 30 points
-  - README: 25 points
-  - Lightning Presentation: 10 points
-  - Live Demo: 5 points 
+  - Code: 20 points
+  - README: 15 points
+  - Lightning Demo: 15 points 
+  - 20+ total meaningful commits in Github: 1 points
+
