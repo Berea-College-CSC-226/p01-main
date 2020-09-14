@@ -41,16 +41,18 @@ Throughout this project, you have likely used outside resources. Reference all i
 ## Milestone 2: Code
 *Due Tue Sep 22, 2020*
 
-No README action items. Focus on your code! 🙃
+No README action items. Keep your Kanban board up to date, and focus on your code! 🙃
 
 ---
 
 ## Milestone 3: Virtual Check-in
 *Due Mon Sep 28, 2020*
 
-Add a note to this section that indicates what percentage of the project you have left to complete. 
+Indicates what percentage of the project you have left to complete, and how confident you are feeling. 
 
 ❗️**Completion Percentage**: 0 - 100%
+
+❗️**Confidence**: Describe how confident you feel about completing this project, and why. Then, describe some strategies you can employ to increase the likelihood taht you'll be successful in completing this project by October 2nd.
 
 ---
 
@@ -58,8 +60,7 @@ Add a note to this section that indicates what percentage of the project you hav
 *Due on Fri Oct 2, 2020*
 
 ### ❗User Instructions
-In a paragraph, explain how to use your program. 
-Assume the user is starting just after they hit the "Run" button. 
+In a paragraph, explain how to use your program. Assume the user is starting just after they hit the "Run" button. 
 
 ### ❗Errors and Constraints
 Every program has bugs or features that had to be scrapped for time. Use this section to create a bullet list of all known errors and deficiencies that remain in your code. Bugs found that aren't acknowledged here will be penalized.
