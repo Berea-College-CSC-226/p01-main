@@ -91,16 +91,12 @@ assignments together to create something new and interesting!
     - Proofread, nicely formatted, and cleaned up.
     - Check how your formatting looks in a web browser (not PyCharm's unformatted version).
     - Your README will be graded as it appears on GitHub.
-3. In-class lightning presentation (5 minutes, 3 slides)
-    - Your slides must be uploaded to your repository as images or a PDF file (not PowerPoint).
-    - Your presentation should be similar to a sales pitch about why your project is awesome.
-    - No slides with large blocks of code.
-4. In-class live lightning demo to your classmates
+3. In-class live lightning demo to your classmates
     - You will demonstrate your project. Have your project ready to **run** at the beginning of class. No scrolling through code, and not a Powerpoint! 
     - You will have 3 minutes to demo. No more, no less!
     - You will demo three times.
     - There will be a short amount of time for question and answer.
-5. **Commit and push** your work before your section's exam period!
+4. **Commit and push** your work before your section's exam period!
 
 ---
 ## Grading
