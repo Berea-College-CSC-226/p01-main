@@ -103,18 +103,17 @@ assignments together to create something new and interesting!
 - Milestone 1:
   - README + CRC Card(s): 10 points
   - Kanban: 5 points
-  - 2+ total meaningful commits in Github: 2 points
+  - 2+ total meaningful commits in GitHub: 2 points
 - Milestone 2: 
   - README: 5 points
   - Kanban: 5 points
-  - 5+ total meaningful commits in Github: 2 points
+  - 5+ total meaningful commits in GitHub: 2 points
 - Milestone 3: 
   - README: 5 points
   - Kanban: 10 points
-  - 10+ total meaningful commits in Github: 2 points
+  - 10+ total meaningful commits in GitHub: 2 points
 - Milestone 4:
   - Code: 20 points
   - README: 15 points
   - Lightning Demo: 15 points 
-  - 20+ total meaningful commits in Github: 1 points
-
+  - 20+ total meaningful commits in GitHub: 1 points
