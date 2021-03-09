@@ -1,6 +1,7 @@
 # Project Requirements
 **_Do not modify this file; it is for your reference only._** 
-You should make your edits to README.md while working on your project.
+- Do the final project individually –– without a partner.
+- You should make your edits to README.md while working on your project.
 
 ---
 
