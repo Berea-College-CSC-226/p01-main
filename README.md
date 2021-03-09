@@ -1,17 +1,15 @@
 # ❗CSC226 Project
 
-**Term**: Fall 2020
+**Term**: Spring 2021
 
 ❗️**Author(s)**: Your name(s) here
-
-❗️**Section**: A or B
 
 ❗️indicates action items; you should remove these emoji as you complete/update the items which they accompany. (This means that your final README should have no ❗️in it!)
 
 ---
 
 ❗**References**: 
-Throughout this project, you have likely used outside resources. Reference all ideas which are not your own, and describe how you integrated the ideas or code into your program. This includes online sources, people who have helped you, and any other resources that are not solely your own contribution. Update as you go!
+Throughout this project, you have likely used outside resources. Reference all ideas which are not your own, and describe how you integrated the ideas or code into your program. This includes online sources, people who have helped you, and any other resources that are not solely your own contribution. Update as you go.
 
 ---
 
@@ -39,7 +37,7 @@ Throughout this project, you have likely used outside resources. Reference all i
 
 ## Milestone 2: Code
 
-No README action items. Keep your Kanban board up to date, and focus on your code! 🙃
+No README action items. Keep your Kanban board up to date, and focus on your code. 🙃
 
 ---
 
@@ -49,7 +47,7 @@ Indicates what percentage of the project you have left to complete, and how conf
 
 ❗️**Completion Percentage**: 0 - 100%
 
-❗️**Confidence**: Describe how confident you feel about completing this project, and why. Then, describe some strategies you can employ to increase the likelihood taht you'll be successful in completing this project by October 2nd.
+❗️**Confidence**: Describe how confident you feel about completing this project, and why. Then, describe some strategies you can employ to increase the likelihood taht you'll be successful in completing this project before the deadline.
 
 ---
 
