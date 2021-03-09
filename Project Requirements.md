@@ -22,9 +22,9 @@ assignments together to create something new and interesting!
 ## Kanban Board
 - Make a Kanban board board on Trello to track the progress of your project.
 - Your board needs to have at least the following three columns:
-    - **Not Started / Backlog:** All tasks related to the project that you plan to complete
-    - **In Progress:** The ONE or TWO task(s) you are currently working on (move the card from Not Started to In Progress when you begin that task).
-    - **Completed**: Tasks that you believe are implemented and work correctly.
+    - **Backlog:** All tasks related to the project that you plan to complete
+    - **Work In Progress:** The ONE or TWO task(s) you are currently working on (move the card from Not Started to In Progress when you begin that task).
+    - **Done**: Tasks that you believe are implemented and work correctly.
 - As an example, you can refer to the Kanban board used by the Student Software Development Team, which is slightly more complex, but contains the three columns listed above: https://trello.com/b/eRuoLEBR/ssdt-kanban-board
 - Feel free to add additional columns that you find helpful.
 - Post at least a dozen project-related tasks to the board.
@@ -37,7 +37,7 @@ assignments together to create something new and interesting!
 - Post a link to the board in the README.md document.
 
 ## 📌Milestone 1: Setup, Planning, Design
-*Due Fri Sep 18, 2020*
+*Due Fri Mar 12, 2021*
 
 1. Create your project repository (this one!) 
 2. Update the README.md header with your information (name, etc.)
@@ -56,7 +56,7 @@ assignments together to create something new and interesting!
 ---
 
 ## 📌Milestone 2: Code
-*Due Tue Sep 22, 2020*
+*Due Tue Mar 16, 2021*
 
 1. Create and add the new file(s) to your repository for your final project code.
 2. Complete a rough draft of your code! Hints:
@@ -70,7 +70,7 @@ assignments together to create something new and interesting!
 ---
 
 ## 📌Milestone 3: Virtual Check-in
-*Due Tues Sept 29, 2020*
+*Due Mon Mar 22, 2021*
 
 1. Add a note to the Milestone 3 section of the README.md that indicates what percentage of the project you have left to complete, and how confident you feel about completing the work. Elaborate!
 2. Now is the time to reconsider goals. Add a new column to your Kanban board between **Not Started** and **In Progress**. Call this column **Final Sprint**. Move cards from the **Not Started** column into the **Final Sprint** column that you expect to finish by the end of the project, and leave anything that is extra in the **Not Started** column. 
@@ -79,7 +79,7 @@ assignments together to create something new and interesting!
 ---
 
 ## 📌Milestone 4: Final Code, Presentation, Demo
-*Due on Fri Oct 2, 2020*
+*Due on Fri Mar 26, 2021*
 
 1. Final version of your code:
     - Clean up code. Ensure it follows our coding standards.
