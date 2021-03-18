@@ -71,7 +71,7 @@ assignments together to create something new and interesting!
 ---
 
 ## 📌Milestone 3: Virtual Check-in
-*Due Mon Mar 22, 2021*
+*Due Tue Mar 23, 2021*
 
 1. Add a note to the Milestone 3 section of the README.md that indicates what percentage of the project you have left to complete, and how confident you feel about completing the work. Elaborate.
 2. Now is the time to reconsider goals. Add a new column to your Kanban board between **To Do / Backlog** and **Doing / Work in Progress**. Call this column **Final Sprint**. Move cards from the **To Do / Backlog** column into the **Final Sprint** column that you expect to finish by the end of the project, and leave anything that is extra in the **To Do / Backlog** column. 
