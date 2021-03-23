@@ -41,13 +41,13 @@ No README action items. Keep your Kanban board up to date, and focus on your cod
 
 ---
 
-## Milestone 3: Virtual Check-in
+## Milestone 3: Virtual Check-In
 
-Indicates what percentage of the project you have left to complete, and how confident you are feeling. 
+Indicate what percentage of the project you have left to complete and how confident you feel. 
 
 ❗️**Completion Percentage**: 0 - 100%
 
-❗️**Confidence**: Describe how confident you feel about completing this project, and why. Then, describe some strategies you can employ to increase the likelihood taht you'll be successful in completing this project before the deadline.
+❗️**Confidence**: Describe how confident you feel about completing this project, and why. Then, describe some strategies you can employ to increase the likelihood that you'll be successful in completing this project before the deadline.
 
 ---
 
