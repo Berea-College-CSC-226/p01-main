@@ -1,6 +1,6 @@
 # ❗CSC226 Project
 
-**Term**: Spring 2021
+**Term**: Fall 2021
 
 ❗️**Author(s)**: Your name(s) here
 
