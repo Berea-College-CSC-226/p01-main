@@ -1,10 +1,10 @@
 # ❗CSC226 Final Project
 
-**Term**: Fall 2023
+❗️Exclamation Marks ❗️indicate action items; you should remove these emoji as you complete/update the items which they accompany. (This means that your final README should have no ❗️in it!)
 
 ❗️**Author(s)**: Your names here
 
-❗️Exclamation Marks ❗️indicate action items; you should remove these emoji as you complete/update the items which they accompany. (This means that your final README should have no ❗️in it!)
+❗️**Google Doc Link**: Your link here
 
 ---
 
