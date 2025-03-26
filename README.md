@@ -11,13 +11,6 @@
 
 ---
 
-## References 
-Throughout this project, you have likely used outside resources. Reference all ideas which are not your own, 
-and describe how you integrated the ideas or code into your program. This includes online sources, people who have 
-helped you, AI tools you've used, and any other resources that are not solely your own contribution. Update as you go.
-
----
-
 ## Milestone 1: Setup, Planning, Design
 
 ❗️**Title**: `What is the title of your project? Be creative! Replace this block of text.`
@@ -40,12 +33,20 @@ helped you, AI tools you've used, and any other resources that are not solely yo
 
 Each partner should create a branch at the beginning of the project, and stay on this branch (or branches of their 
 branch) as they work. When you need to bring each others branches together, do so by merging each other's branches 
-into your own, following the process we've discussed in previous assignments: 
+into your own, following the process we've discussed in previous assignments, then re-branching out from the merged code.  
 
 ```
-    Branch 1 name: _____________
-    Branch 2 name: _____________
+    Branch 1 starting name: _____________
+    Branch 2 starting name: _____________
 ```
+
+### References 
+
+Throughout this project, you will likely use outside resources. Reference all ideas which are not your own, 
+and describe how you integrated the ideas or code into your program. This includes online sources, people who have 
+helped you, AI tools you've used, and any other resources that are not solely your own contribution. Update this 
+section as you go. DO NOT forget about it!
+
 ---
 
 ## Milestone 2: Code Setup and Issue Queue
@@ -80,19 +81,39 @@ Indicate what percentage of the project you have left to complete and how confid
 ## Milestone 4: Final Code, Presentation, Demo
 
 ### ❗User Instructions
+
 In a paragraph, explain how to use your program. Assume the user is starting just after they hit the "Run" button 
 in PyCharm. 
 
 ### ❗Errors and Constraints
+
 Every program has bugs or features that had to be scrapped for time. These bugs should be tracked in the issue queue. 
 You should already have a few items in here from the prior weeks. Create a new issue for any undocumented errors and 
 deficiencies that remain in your code. Bugs found that aren't acknowledged in the queue will be penalized.
 
+### ❗Peer Evaluation
+
+It is important that all members of your team contribute equitably. The peer evaluation is your chance to either 
+a) celebrate the great work you all did together as an effective team, or b) indicate to the instructor if a member of
+your team did not contribute their fair share. Grades will be adjusted for any team member who is evaluated poorly. Your
+commit history will be used as evidence, so make sure you are using git effectively!
+
 ### ❗Reflection
-In three to four well-written paragraphs, address the following (at a minimum):
+
+Each partner should write three to four well-written paragraphs address the following (at a minimum):
 - Why did you select the project that you did?
 - How closely did your final project reflect your initial design?
 - What did you learn from this process?
 - What was the hardest part of the final project?
 - What would you do differently next time, knowing what you know now?
-- (For partners) How well did you work with your partner? What made it go well? What made it challenging?
+- How well did you work with your partner? What made it go well? What made it challenging?
+
+```
+    Partner 1: **Replace this text with your reflection
+```
+
+```
+    Partner 2: **Replace this text with your reflection
+```
+
+---
